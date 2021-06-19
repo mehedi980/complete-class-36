@@ -1,0 +1,95 @@
+.newsletter_section{
+    background: #f4f7fa;
+}
+.form_seaction{
+    background: rgb(6, 82, 248);
+    color: #fff !important;
+    border-radius: 7px;
+}
+.form_seaction h2{
+    font-size: 30px;
+    margin-bottom: 30px !important;
+}
+.form_seaction p{
+    font-size: 18px;
+}
+
+.froms_section .from_default{
+    padding: 10px 30px !important;
+    width: 70% !important;
+    border-radius: 50px;
+}
+
+.froms_section .btn-outline-primary{
+    color: #fff !important;
+    padding: 10px 30px !important;
+    font-size: 15px;
+    border-radius: 50px;
+    border: 2px solid #fff;
+}
+
+
+
+
+.online_section {
+    background: #fff;
+    border-radius: 7px;
+    padding: 32px 28px !important;
+    box-shadow: 2px 2px 15px #aaaaaa;
+}
+.online_section p{
+    padding: 15px 0;
+    font-size: 22px;
+    color: #666;
+}
+.online_section .btn-primary{
+    padding: 10px 40px !important;
+    border-radius: 50px;
+}
+
+.logo_section{
+    padding-top: 180px!important;
+}
+.newsletter_seaction{
+    margin-right: 50px;
+}
+.newsletter_seaction h4{
+    color: #a0b4f5;
+    font-size: 18px;
+}
+.newsletter_seaction h1{
+    font-size: 50px;
+    font-weight: 600;
+    position: relative;
+}
+.newsletter_seaction h1::after {
+    content: "";
+    top: 203px;
+    left: 0;
+    height: 3px;
+    width: 62px;
+    position: absolute;
+    background: #3763eb;
+}
+.newsletter_seaction p{
+    font-size: 20px;
+    padding-top: 50px;
+color: #666;
+}
+
+.logo_img{
+    height: 100%;
+    opacity: 0.4;
+    transition: .5s;
+    padding-right: 0;
+}
+.logo_img img {
+    padding: 41px 21px;
+ 
+    
+
+}
+.logo_img:hover{
+    opacity: 1;
+    background: #f6f9fc;
+}
